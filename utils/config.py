@@ -1,0 +1,2 @@
+URL_BASE = " https://reqres.in"
+API_KEY = "pub_8270624cc6b0a52d78787b83618da74ee080ee31bcc5862010e93e73728b1b71"
