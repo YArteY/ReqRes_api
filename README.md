@@ -135,6 +135,8 @@ Durante el desarrollo de este proyecto se practicaron conceptos como:
 
 ---
 
+![Demo del proyecto](assets/ReqRes.api.gif)
+
 ## API utilizada
 
 El proyecto utiliza la API pública de **ReqRes**, diseñada para practicar pruebas y consumo de servicios REST.
